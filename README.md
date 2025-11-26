@@ -4,7 +4,7 @@ This repository contains my Object-Oriented Programming (OOP) project developed 
 
 🚀 Features:
 
-Implementation of core OOP principles
-Clean and modular class structure
-Well-documented code for easy understanding
-Console-based interaction (simple and user-friendly)
+- Implementation of core OOP principles
+- Clean and modular class structure
+- Well-documented code for easy understanding
+- Console-based interaction (simple and user-friendly)
